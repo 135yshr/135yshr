@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=135yshr&show_icons=true&theme=dracula&locale=en,ja"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=135yshr&show_icons=true&locale=en,ja"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=135yshr&show_icons=true" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135yshr&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![135yshr's GitHub stats](https://github-readme-stats.vercel.app/api?username=135yshr&theme=dracula&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
