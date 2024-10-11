@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,flutter,dart,react,nextjs,js,ts,c,cpp,haskell,wasm,yarn,jest,graphql,nginx,postgres,mysql,redis,sqlite,firebase,dynamodb,terraform,docker,kubernetes,aws,gcp,azure,vscode,vim,neovim,md,postman,cypress,git,github,gitlab,linux,kali,redhat,debian,raspberrypi)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135yshr&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![135yshr's GitHub stats](https://github-readme-stats.vercel.app/api?username=135yshr&theme=dracula&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
