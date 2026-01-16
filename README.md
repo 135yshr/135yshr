@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135yshr&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135yshr)](https://github.com/anuraghazra/github-readme-stats)
 [![135yshr's GitHub stats](https://github-readme-stats.vercel.app/api?username=135yshr&theme=dracula&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
