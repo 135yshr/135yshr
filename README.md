@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-[![typograssy](https://typograssy.deno.dev/api?text=Go%20language%20is%20a%20good%20one.)](https://github.com/kawarimidoll/typograssy)
+# Hi there 👋 I'm 135yshr
 
-### My Skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=520&lines=Gopher+from+Sendai%2C+Japan;I+love+Go+language!;Always+learning%2C+always+building)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,flutter,dart,react,nextjs,js,ts,c,cpp,haskell,wasm,yarn,jest,graphql,nginx,postgres,mysql,redis,sqlite,firebase,dynamodb,terraform,docker,kubernetes,aws,gcp,azure,vscode,vim,neovim,md,postman,cypress,git,github,gitlab,linux,kali,redhat,debian,raspberrypi)](https://skillicons.dev)
+</div>
 
-### Stats
+## 🛠️ Tech Stack
 
-[![135yshr's GitHub stats](https://github-stats-extended.vercel.app/api?username=135yshr&theme=dracula&show_icons=true&rank_icon=github&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=135yshr&theme=dracula&layout=compact&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
+#### Languages & Frameworks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=135yshr&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Languages](https://skillicons.dev/icons?i=go,dart,flutter,react,nextjs,ts,js,c,cpp,haskell,laravel,wasm)](https://skillicons.dev)
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=135yshr&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+#### Infrastructure & Cloud
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,azure,postgres,mysql,redis,firebase,dynamodb,nginx)](https://skillicons.dev)
+
+#### Tools & Environment
+
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vim,neovim,vscode,linux,raspberrypi,graphql,jest,cypress,postman)](https://skillicons.dev)
+
+## 📊 Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=135yshr&theme=dracula&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true">
+  <img alt="135yshr's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=135yshr&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=135yshr&theme=dracula&layout=compact&langs_count=8&hide_border=true">
+  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=135yshr&layout=compact&langs_count=8&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=135yshr&theme=dracula&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=135yshr&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=135yshr&theme=dracula">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=135yshr&theme=default">
+</picture>
+
+</div>
