@@ -35,6 +35,11 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=3311465&image_size=auto&color_scheme=dark">
+  <img alt="OSS Insight Dashboard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=3311465&image_size=auto&color_scheme=light" width="771">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=135yshr&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=135yshr&theme=minimal&hide_border=true&area=true">
 </picture>
