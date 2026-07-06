@@ -13,7 +13,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=135yshr&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=135yshr&column=5&theme=darkhub"/>
-  </a>
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=135yshr&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
